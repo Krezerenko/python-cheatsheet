@@ -5,6 +5,8 @@ Comprehensive Python Cheatsheet
 
 A second change one line back
 A first change here as well
+A third change instead of the first
+And a second change here too
 
 ![Monty Python](web/image_888.jpeg)
 
