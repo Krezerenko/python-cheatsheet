@@ -5,7 +5,7 @@ Comprehensive Python Cheatsheet
 
 A fourth change a line back
 A third change instead of the first
-And a second change here too
+A sixth change instead of the second
 A fifth change after all previous
 
 ![Monty Python](web/image_888.jpeg)
