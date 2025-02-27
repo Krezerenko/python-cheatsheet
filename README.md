@@ -4,6 +4,7 @@ Comprehensive Python Cheatsheet
 </sup>
 
 A first change
+And a second change here too
 
 ![Monty Python](web/image_888.jpeg)
 
